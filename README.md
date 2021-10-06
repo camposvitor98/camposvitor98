@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Orbesoft  //  Eu atualmente estou trabalhanho na Orbesoft
 - 🌱 I’m currently learning ReactNative  //  Eu atualmente estou estudando ReactNative
-- 📓 Languages: Portuguese and English  //  Linguas: Português and Ingles
+- 📓 Languages: Portuguese and English  //  Linguas: Português and Inglês
 - 😄 Pronouns: He/Him  //  Pronomes: Ele/Dele
 
 <div align="center">
