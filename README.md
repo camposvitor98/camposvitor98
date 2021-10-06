@@ -1,8 +1,9 @@
 ## Olá, eu sou o Vitor Campos, desenvolvedor front-end! :)
 
-- 🔭 I’m currently working on Orbesoft
-- 🌱 I’m currently learning ReactNative
-- 😄 Pronouns: Ele/Dele
+- 🔭 I’m currently working on Orbesoft  //  Eu atualmente estou trabalhanho na Orbesoft
+- 🌱 I’m currently learning ReactNative  //  Eu atualmente estou estudando ReactNative
+- 📓 Languages: Portuguese and English  //  Linguas: Português and Ingles
+- 😄 Pronouns: He/Him  //  Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
