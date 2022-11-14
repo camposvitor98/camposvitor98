@@ -1,6 +1,6 @@
 ## Olá, eu sou o Vitor Campos, desenvolvedor front-end! :)
 
-- 🔭 I’m currently working on Orbesoft  //  Eu atualmente estou trabalhanho na Orbesoft
+- 🔭 I’m currently working on Qualyteam  //  Eu atualmente estou trabalhanho na Qualyteam
 - 👨‍💻 I'm currently improving my knowledge in all the ecosystem React // Eu atualmente estou aprimorando meus conhecimentos em todo o ecossistema React
 - 📓 Languages: Portuguese and English  //  Linguas: Português and Inglês
 - 😄 Pronouns: He/Him  //  Pronomes: Ele/Dele
